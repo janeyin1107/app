@@ -43,6 +43,8 @@
             $handle = fopen($rds_conf_file, 'w') or die('Cannot open file:  '.$rds_conf_file);
             $data = "<?php \$RDS_URL='" . $ep . "'; \$RDS_DB='" . $db . "'; \$RDS_user='" . $un . "'; \$RDS_pwd='" . $pw . "'; ?>";
             fwrite($handle, $data);
+            echo "<br /><p>Done writing $data </p>";
+
             fclose($handle);
           }
 

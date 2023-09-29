@@ -1,4 +1,4 @@
-<div id="header"><a href="/"><img src="https://s3.amazonaws.com/awstechbootcamp/GettingStarted/logo.png" /></a></div>
+<div id="header"><a href="/"><img src="logo.png" /></a></div>
 
 <div id='menu'>
 <ul>
