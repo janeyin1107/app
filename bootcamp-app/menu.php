@@ -1,4 +1,4 @@
-<div id="header"><a href="/"><img src="logo.png" /></a></div>
+<div id="header"><a href="/"><img src="logo.png" width="40" /></a></div>
 
 <div id='menu'>
 <ul>
