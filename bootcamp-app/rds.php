@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>AWS Tech Fundamentals Bootcamp</title>
+    <title>Job Portal</title>
     <link href="style.css" media="all" rel="stylesheet" type="text/css" />
   </head>
 
